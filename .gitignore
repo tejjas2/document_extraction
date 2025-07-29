@@ -1,4 +1,5 @@
-# Don't track environment files
+# Ignore all environment files
+*.env
 .env
 .env.*
 
@@ -13,12 +14,7 @@ dist/
 build/
 *.sqlite3
 
-# Node.js
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
+
 
 # Logs
 *.log
