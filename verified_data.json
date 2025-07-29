@@ -1,0 +1,377 @@
+{
+  "aadhar": {
+    "name": "MOHD AMIN",
+    "dob": "04/09/1956",   
+    "aadhaar_number": "8635 5796 6270",
+    "address": "S/O Abdul Rehman, DODAJ, TOPA theru, Dudaj, Rajouri, Jammu And Kashmir, 185135"
+    
+  },
+  "pan": {
+    "name": "MOHD AMIN",
+    "dob": "04/09/1956",
+    "pan_number": "AVAPA6558Q"
+  },
+  "form": {
+    "name": "MOHD AMIN",
+    "dob": "4/09/1956",
+   
+    "address": "DODAJ DARHAL MALKAN RAJOURI INDIA 185135"
+    
+  },
+  "common_fields": {
+    "name": {
+      "value": "MOHD AMIN",
+      "found_in": ["110010289651_1000003312_UPSW_2025-06-17-13-26-19_KYC_UPS_FILE_Adhar", "110010289651_1000003312_UPSW_2025-06-17-13-26-19_PAN_UPS_FILE_Pan", "110010289651_1000003312_UPSW_2025-06-17-13-26-19_EMP_DTLS_FILE_Form"]
+    },
+    "dob": {
+      "value": "04/09/1956",
+      "found_in": ["110010289651_1000003312_UPSW_2025-06-17-13-26-19_KYC_UPS_FILE_Adhar", "110010289651_1000003312_UPSW_2025-06-17-13-26-19_PAN_UPS_FILE_Pan", "110010289651_1000003312_UPSW_2025-06-17-13-26-19_EMP_DTLS_FILE_Form"]
+    },
+    "pan_number": {
+      "value": "AVAPA6558Q",
+      "found_in": ["110010289651_1000003312_UPSW_2025-06-17-13-26-19_PAN_UPS_FILE_Pan", "110010289651_1000003312_UPSW_2025-06-17-13-26-19_EMP_DTLS_FILE_Form"]
+    },
+    "aadhaar_number": {
+      "value": "8635 5796 6270",
+      "found_in": ["110010289651_1000003312_UPSW_2025-06-17-13-26-19_KYC_UPS_FILE_Adhar", "110010289651_1000003312_UPSW_2025-06-17-13-26-19_EMP_DTLS_FILE_Form"]
+    }
+  }
+}
+
+
+
+
+
+  "110010289651_1000003312_UPSW_2025-06-17-13-26-19_EMP_DTLS_FILE_Form ": {
+    "name": {
+      "value": "MOHD AMIN",
+      "page": 1
+    },
+    "dob": {
+      "value": "4/09/1956",
+      "page": 1
+    },
+    "address": {
+      "value": "DODAJ DARHAL MALKAN RAJOURI INDIA 185135",
+      "page": 1
+    },
+    "110010289651_1000003312_UPSW_2025-06-17-13-26-19_KYC_UPS_FILE_Adhar": {
+    "name": {
+      "value": "MOHD AMIN",
+      "page": 1
+    },
+    "dob": {
+      "value": "04/09/1956",
+      "page": 1
+    },
+    "aadhaar_number": {
+      "value": "8635 5796 6270",
+      "page": 1
+    },
+    "address": {
+      "value": "S/O Abdul Rehman, DODAJ, TOPA theru, Dudaj, Rajouri, Jammu And Kashmir, 185135",
+      "page": 1
+    },
+    "110010289651_1000003312_UPSW_2025-06-17-13-26-19_PAN_UPS_FILE_Pan": {
+    "name": {
+      "value": "MOHD AMIN",
+      "page": 1
+    },
+    "dob": {
+      "value": "04/09/1956",
+      "page": 1
+    },
+    "pan_number": {
+      "value": "AVAPA6558Q",
+      "page": 1
+    }
+    
+  }
+}
+
+
+
+{
+  "110010289651_1000003312_UPSW_2025-06-17-13-26-19_EMP_DTLS_FILE_Form": {
+    "name": {
+      "value": "MOHD AMIN",
+      "page": 1
+    },
+    "dob": {
+      "value": "4/09/1956",
+      "page": 1
+    },
+    "address": {
+      "value": "DODAJ DARHAL MALKAN RAJOURI INDIA 185135",
+      "page": 1
+    },
+    "110010289651_1000003312_UPSW_2025-06-17-13-26-19_KYC_UPS_FILE_Adhar": {
+      "name": {
+        "value": "MOHD AMIN",
+        "page": 1
+      },
+      "dob": {
+        "value": "04/09/1956",
+        "page": 1
+      },
+      "aadhaar_number": {
+        "value": "8635 5796 6270",
+        "page": 1
+      },
+      "address": {
+        "value": "S/O Abdul Rehman, DODAJ, TOPA theru, Dudaj, Rajouri, Jammu And Kashmir, 185135",
+        "page": 1
+      }
+    },
+    "110010289651_1000003312_UPSW_2025-06-17-13-26-19_PAN_UPS_FILE_Pan": {
+      "name": {
+        "value": "MOHD AMIN",
+        "page": 1
+      },
+      "dob": {
+        "value": "04/09/1956",
+        "page": 1
+      },
+      "pan_number": {
+        "value": "AVAPA6558Q",
+        "page": 1
+      }
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+export const data = [
+  {
+    key: "1",
+    pran: "110010289651",
+    documents: {
+      formB2: {
+        name: "MOHD AMIN",
+        dob: "04/09/1956",
+        address: "DODAJ DARHAL MALKAN RAJOURI INDIA 185135",
+        pdfUrl:
+          "110010289651_1000003312_UPSW_2025-06-17-13-26-19_EMP_DTLS_FILE_Form.pdf",
+      },
+      aadhar: {
+        name: "MOHD AMIN",
+        dob: "04/09/1956",
+        number: "8635 5796 6270",
+        address: "S/O Abdul Rehman, DODAJ, TOPA theru, Dudaj, Rajouri, Jammu And Kashmir, 185135",
+        pdfUrl: "110010289651_1000003312_UPSW_2025-06-17-13-26-19_KYC_UPS_FILE_Adhar.pdf",
+      },
+      pan: {
+        name: "MOHD AMIN",
+        dob: "04/09/1956",
+        number: "AVAPA6558Q",
+        pdfUrl: "110010289651_1000003312_UPSW_2025-06-17-13-26-19_PAN_UPS_FILE_Pan.pdf",
+      },
+    },
+  },
+  {
+    key: "2",
+    pran: "110010293361",
+    documents: {
+      formB2: {
+        name: "JAYACHANDRAKUMAR DIVAKARAN PILLAI",
+        dob: "10-09-1958",
+        address: "LAKSHMI BHAVAN,KANCHIYOORKONAM,KULATHUMMAL,KATTAKADA,TRIVANDRUM,KERELA,695572",
+        pdfUrl:
+          "110010293361_1000003637_UPSW_2025-06-20-10-57-03_SIGN_FORM_FILE_B2.pdf",
+      },
+      aadhar: {
+        name: "",
+        dob: "",
+        number: "",
+        address: "",
+        pdfUrl: "",
+      },
+      pan: {
+        name: "JAYACHANDRAKUMAR DIVAKARAN PILLAI",
+        dob: "10-09-1958",
+        number: "AHCPJ9330P,
+        pdfUrl: "110010293361_1000003637_UPSW_2025-06-20-10-57-03_PAN_UPS_FILE_Pan card.pdf",
+      },
+      drivinglicense:{
+        name:"JAYACHANDRAKUMAR DIVAKARAN PILLAI",
+        dob:"10-09-1958",
+        address:"LAKSHMI BHAVAN,KANCHIYOORKONAM,KULATHUMMAL,KATTAKADA,TRIVANDRUM,KERELA,695572",
+        pdfUrl:"110010293361_1000003637_UPSW_2025-06-20-10-57-03_KYC_UPS_FILE_Driving.pdf",
+      }
+    },
+  },
+  {
+    key: "3",
+    pran: "110040033998",
+    documents: {
+      formB2: {
+        name: "Pradeep Kumar Jaiswal",
+        dob: "25-07-1963",
+        address: "HOUSE NO-745,LIG D BLOCK,SHYAM NAGAR,SOUTH DELHI,Uttar Pradesh,208013,India",
+        pdfUrl:
+          "110040033998_UWDR_Form_signedFinal.pdf",
+      },
+      aadhar: {
+        name: "Pradeep Kumar Jaiswal",
+        dob: "25-07-1963",
+        number: "5011 5248 5602",
+        address: "S/O M.p Jaiswal,F-303 Road no 3 , Andrewsganj S.o,South Delhi,Delhi,110049",
+        pdfUrl: "110040033998_1000005027_UPSW_2025-06-23-15-55-41_KYC_UPS_FILE_Pk jaiswal Adar card (1) ",
+      },
+      pan: {
+        name: "Pradeep Kumar Jaiswal",
+        dob: "25-07-1963",
+        number: "ADTPJ0598A",
+        pdfUrl: "110040033998_1000005027_UPSW_2025-06-23-15-55-41_PAN_UPS_FILE_pk jaiswal pan card.pdf",
+      },
+    },
+  },
+];
+
+
+
+
+
+
+export const data = [
+  {
+    key: "1",
+    pran: "110010289651",
+    documents: {
+      formB2: {
+        name: "MOHD AMIN",
+        dob: "04/09/1956",
+        address: "DODAJ DARHAL MALKAN RAJOURI INDIA 185135",
+        aadhar_number: "8635 5796 6270",
+        pan_number: "AVAPA6558Q",
+        pdfUrl: "110010289651_1000003312_UPSW_2025-06-17-13-26-19_EMP_DTLS_FILE_Form.pdf",
+        page_no: 1
+      },
+      aadhar: {
+        name: "MOHD AMIN",
+        dob: "04/09/1956",
+        number: "8635 5796 6270",
+        address: "S/O Abdul Rehman, DODAJ, TOPA theru, Dudaj, Rajouri, Jammu And Kashmir, 185135",
+        pdfUrl: "110010289651_1000003312_UPSW_2025-06-17-13-26-19_KYC_UPS_FILE_Adhar.pdf",
+        page_no: 1
+      },
+      pan: {
+        name: "MOHD AMIN",
+        dob: "04/09/1956",
+        number: "AVAPA6558Q",
+        pdfUrl: "110010289651_1000003312_UPSW_2025-06-17-13-26-19_PAN_UPS_FILE_Pan.pdf",
+        page_no: 1
+      },
+      bank_statement: {
+        account_holder_name: "MOHD AMIM & GHULAM ZUHARA",
+        account_number: "20328257661",
+        bank_name: "STATE BANK OF INDIA",
+        ifsc_code: "SBIN0001575",
+        pdfUrl: "110010289651_1000003312_UPSW_2025-06-17-13-26-19_BNKPRF_UPS_FILE_Bank",
+        page_no:1
+      }
+    }
+  },
+  {
+    key: "2",
+    pran: "110010293361",
+    documents: {
+      formB2: {
+        name: "JAYACHANDRA KUMAR D",
+        dob: "10-09-1958",
+        address: "LAKSHMI BHAVAN,KANCHIYOORKONAM,KULATHUMMAL,KATTAKADA,TRIVANDRUM,KERELA,695572",
+        aadhar_number: "9502 0605 5762",
+        pan_number: "AHCPJ9330P",
+        pdfUrl: "110010293361_1000003637_UPSW_2025-06-20-10-57-03_SIGN_FORM_FILE_B2.pdf",
+        page_no: 1
+      },
+      aadhar: {
+        name: "",
+        dob: "",
+        number: "",
+        address: "",
+        pdfUrl: ""
+      },
+      pan: {
+        name: "JAYACHANDRA KUMAR D",
+        dob: "10-09-1958",
+        number: "AHCPJ9330P",
+        pdfUrl: "110010293361_1000003637_UPSW_2025-06-20-10-57-03_PAN_UPS_FILE_Pan card.pdf",
+        page_no: 1
+      },
+      drivinglicense: {
+        name: "JEYA CHANDRA KUMAR D",
+        dob: "10-09-1958",
+        address: "LAKSHMI BHAVAN,KANCHIYOORKONAM,KULATHUMMAL,KATTAKADA,TRIVANDRUM,KERELA,695572",
+        number: "TN72V20140004459",
+        pdfUrl: "110010293361_1000003637_UPSW_2025-06-20-10-57-03_KYC_UPS_FILE_Driving.pdf",
+        page_no: 1
+      },
+      bank_statement: {
+        account_holder_name: "JAYACHANDRA KUMAR D & /MINI I",
+        account_number: "67007910006",
+        bank_name: "STATE BANK OF INDIA",
+        ifsc_code: "SBIN0070040",
+        pdfUrl: "110010293361_1000003637_UPSW_2025-06-20-10-57-03_BNKPRF_UPS_FILE_Passbook",
+        page_no:1
+      }
+    }
+  },
+  {
+    key: "3",
+    pran: "110040033998",
+    documents: {
+      formB2: {
+        name: "Pradeep Kumar Jaiswal",
+        dob: "25-07-1963",
+        address: "HOUSE NO-745,LIG D BLOCK,SHYAM NAGAR,SOUTH DELHI,Uttar Pradesh,208013,India",
+        aadhar_number: "5602",
+        pan_number: "ADTPJ0598A",
+        pdfUrl: "110040033998_UWDR_Form_signedFinal.pdf",
+        page_no: 1
+      },
+      aadhar: {
+        name: "Pradeep Kumar Jaiswal",
+        dob: "25-07-1963",
+        number: "5011 5248 5602",
+        address: "S/O M.p Jaiswal,F-303 Road no 3 , Andrewsganj S.o,South Delhi,Delhi,110049",
+        pdfUrl: "110040033998_1000005027_UPSW_2025-06-23-15-55-41_KYC_UPS_FILE_Pk jaiswal Adar card (1)",
+        page_no: 1
+      },
+      pan: {
+        name: "Pradeep Kumar Jaiswal",
+        dob: "25-07-1963",
+        number: "ADTPJ0598A",
+        pdfUrl: "110040033998_1000005027_UPSW_2025-06-23-15-55-41_PAN_UPS_FILE_pk jaiswal pan card.pdf",
+        page_no: 1
+      },
+      bank_statement: {
+        account_holder_name: "PRADEEP KUMAR JAISWAL / KIRAN JAISWAL" ,
+        account_number: "20154531232",
+        bank_name: "STATE BANK OF INDIA",
+        ifsc_code: "SBIN0003219",
+        pdfUrl: "110040033998_1000005027_UPSW_2025-06-23-15-55-41_BNKPRF_UPS_FILE_p k jaiswal cheque",
+        page_no.:1
+      }
+    }
+  }
+];
+

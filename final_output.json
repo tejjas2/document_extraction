@@ -1,0 +1,27 @@
+{
+  "key": "1",
+  "pran": "110010289651",
+  "documents": {
+    "formB2": {
+      "name": "",
+      "dob": "",
+      "address": "",
+      "number": "",
+      "pdfUrl": "ocr.pdf"
+    },
+    "aadhar": {
+      "name": "",
+      "dob": "",
+      "address": "",
+      "number": "",
+      "pdfUrl": "aadhar.pdf"
+    },
+    "pan": {
+      "name": "",
+      "dob": "",
+      "address": "",
+      "number": "",
+      "pdfUrl": "pan.pdf"
+    }
+  }
+}
